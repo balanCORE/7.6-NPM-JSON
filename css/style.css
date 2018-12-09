@@ -1,0 +1,10 @@
+body {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around; }
+  body .box {
+    height: 10vw;
+    width: 10vw;
+    border: 5px solid orange;
+    border-radius: 50px; }
